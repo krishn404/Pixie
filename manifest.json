@@ -1,0 +1,20 @@
+{
+  "short_name": "Pixie",
+  "name": "PixHeart",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/486f10a4-bc94-4e9d-8c07-e58b91e46c02/dcv3vgp-b93de998-bfbd-417d-afab-65ed881585e1.png/v1/fill/w_1024,h_648/review_bot_pixel_art_by_pieriteyt_dcv3vgp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ4IiwicGF0aCI6IlwvZlwvNDg2ZjEwYTQtYmM5NC00ZTlkLThjMDctZTU4YjkxZTQ2YzAyXC9kY3YzdmdwLWI5M2RlOTk4LWJmYmQtNDE3ZC1hZmFiLTY1ZWQ4ODE1ODVlMS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.apIa9eHa_xx7xalC62hNbUlC2k3MUvMZDp1QhF1mMgw",
+      "sizes": "192x192",
+      "type": "image/png"
+    },{
+      "src":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/486f10a4-bc94-4e9d-8c07-e58b91e46c02/dcv3vgp-b93de998-bfbd-417d-afab-65ed881585e1.png/v1/fill/w_1024,h_648/review_bot_pixel_art_by_pieriteyt_dcv3vgp-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ4IiwicGF0aCI6IlwvZlwvNDg2ZjEwYTQtYmM5NC00ZTlkLThjMDctZTU4YjkxZTQ2YzAyXC9kY3YzdmdwLWI5M2RlOTk4LWJmYmQtNDE3ZC1hZmFiLTY1ZWQ4ODE1ODVlMS5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.apIa9eHa_xx7xalC62hNbUlC2k3MUvMZDp1QhF1mMgw",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "Theme_color": "#ffffff",
+  "display": "standalone"
+}
