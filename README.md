@@ -1,8 +1,7 @@
 # Pixie - Pixel Art Generator
 
 
-Pixie is a web-based pixel art tool designed for both beginners and experienced pixel artists. It offers a straightforward interface with essential features to unleash your creativity.
-
+Pixie is a pixel art tool that makes it easy to create fun pixel art on a canvas. It has a simple interface with all the essential features you need to let your creativity flow. The site is easy to use, and you can start creating right away.
 ## Features
 
 - **Intuitive Pixel Drawing**: Create pixel art effortlessly with Pixie's intuitive drawing tools.
